@@ -1,0 +1,118 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     4065 MB
+    Driver:   22.21.13.8253
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\TETCSharpClient.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\TETCSharpClient.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.440694 ms
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\Breakout\Breakout_Data\Managed\System.Data.dll (this message is harmless)
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Blue') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Pink') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Bricks ') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.174422 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 384.
+Total: 0.771556 ms (FindLiveObjects: 0.037530 ms CreateObjectMapping: 0.009876 ms MarkObjects: 0.704395 ms  DeleteObjects: 0.018962 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1e28 -> priority: 1 
+  Thread -> id: 1eec -> priority: 1 
+  Thread -> id: 1034 -> priority: 1 
+  Thread -> id: 136c -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Yellow ') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568494 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 731.
+Total: 0.706766 ms (FindLiveObjects: 0.048592 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.629729 ms  DeleteObjects: 0.013827 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.496198 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 782.
+Total: 1.008593 ms (FindLiveObjects: 0.106271 ms CreateObjectMapping: 0.015802 ms MarkObjects: 0.872297 ms  DeleteObjects: 0.011851 ms)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.537679 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 364.
+Total: 0.731260 ms (FindLiveObjects: 0.032790 ms CreateObjectMapping: 0.009086 ms MarkObjects: 0.631704 ms  DeleteObjects: 0.057284 ms)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Blue') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Pink') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Bricks ') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.591803 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.774716 ms (FindLiveObjects: 0.031209 ms CreateObjectMapping: 0.010271 ms MarkObjects: 0.719013 ms  DeleteObjects: 0.013827 ms)
+

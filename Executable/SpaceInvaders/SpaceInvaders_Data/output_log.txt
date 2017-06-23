@@ -1,0 +1,88 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8253
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\TETCSharpClient.dll (this message is harmless)
+Loading C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\TETCSharpClient.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.995756 ms
+MedicDataSI.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Users\Joey\Desktop\Proyectos\Executable\SpaceInvaders\SpaceInvaders_Data\Managed\System.Data.dll (this message is harmless)
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.474376 ms
+MedicDataSI.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 1.250766 ms (FindLiveObjects: 0.060444 ms CreateObjectMapping: 0.018172 ms MarkObjects: 1.131063 ms  DeleteObjects: 0.039901 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.699655 ms
+MedicDataSI.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5439.
+Total: 2.017977 ms (FindLiveObjects: 0.287605 ms CreateObjectMapping: 0.075061 ms MarkObjects: 1.630026 ms  DeleteObjects: 0.024493 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at updateLife.update () [0x00000] in <filename unknown>:0 
+  at game.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+No file to load
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.163560 ms
+MedicDataSI.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 415.
+Total: 1.093532 ms (FindLiveObjects: 0.069926 ms CreateObjectMapping: 0.020148 ms MarkObjects: 0.816988 ms  DeleteObjects: 0.186074 ms)
+
+Salio
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 24f8 -> priority: 1 
+  Thread -> id: c8c -> priority: 1 
+  Thread -> id: 1220 -> priority: 1 
+  Thread -> id: 7e8 -> priority: 1 
